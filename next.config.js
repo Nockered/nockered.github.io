@@ -14,6 +14,10 @@ module.exports = {
     concurrentFeatures: false,
     scrollRestoration: true,
   },
+  images: {
+    loader: 'imgix',
+    path: '',
+  },
   async redirects() {
     return redirects.redirects;
   },
