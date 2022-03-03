@@ -5,16 +5,16 @@
 module.exports = {
   // Text colors
   primary: '#23272F', // gray-90
-  'primary-dark': '#F6F7F9', // gray-5
+  'primary-dark': 'rgba(255, 255, 255, 0.87)', // gray-5
   secondary: '#404756', // gray-70
   'secondary-dark': '#EBECF0', // gray-10
   link: '#3c873a', // blue-50
   'link-dark': '#68a063', // blue-40
   syntax: '#EBECF0', // gray-10
   wash: '#FFFFFF',
-  'wash-dark': '#23272F', // gray-90
-  card: '#F6F7F9', // gray-05
-  'card-dark': '#343A46', // gray-80
+  'wash-dark': '#181818', // gray-90
+  card: '#E2F3E2', // gray-05
+  'card-dark': '#383838', // gray-80
   highlight: '#E8EFE6', // blue-10
   'highlight-dark': 'rgba(232,239,230,0.1)',
   border: '#EBECF0', // gray-10
